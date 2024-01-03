@@ -4,7 +4,7 @@ internal class Avaliacao
 {
     public Avaliacao(int nota)
     {
-        Nota = ValidarNota(nota);
+        Nota = nota;
     }
 
     public int Nota { get; }
@@ -13,15 +13,5 @@ internal class Avaliacao
     {
         int nota = int.Parse(texto);
         return new Avaliacao(nota);
-    }
-
-    public int ValidarNota(int nota)
-    {
-        if (nota < 0 && nota > 10)
-        {
-            return 0;
-        }
-
-        return nota;
     }
 }

@@ -27,3 +27,4 @@ C:\Users\marqu\OneDrive\Área de Trabalho\Programacao\ferramentas\csharp\projeto
 C:\Users\marqu\OneDrive\Área de Trabalho\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\screenSound.pdb
 C:\Users\marqu\OneDrive\Área de Trabalho\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.genruntimeconfig.cache
 C:\Users\marqu\OneDrive\Área de Trabalho\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\ref\screenSound.dll
+C:\Users\marqu\OneDrive\Área de Trabalho\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.sourcelink.json
