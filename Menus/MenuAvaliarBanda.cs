@@ -8,8 +8,10 @@ internal class MenuAvaliarBanda : Menu
     {   
         base.Executar(bandasRegistradas);
         ExibirTituloDaOpcao("Avaliar banda");
+        
         Console.Write("Digite o nome da banda que deseja avaliar: ");
         string nomeDaBanda = Console.ReadLine()!;
+        
         if (bandasRegistradas.ContainsKey(nomeDaBanda))
         {
             Banda banda = bandasRegistradas[nomeDaBanda];

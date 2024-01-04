@@ -28,3 +28,32 @@ C:\Users\marqu\OneDrive\Área de Trabalho\Programacao\ferramentas\csharp\projeto
 C:\Users\marqu\OneDrive\Área de Trabalho\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.genruntimeconfig.cache
 C:\Users\marqu\OneDrive\Área de Trabalho\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\ref\screenSound.dll
 C:\Users\marqu\OneDrive\Área de Trabalho\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.sourcelink.json
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\screenSound.exe
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\screenSound.deps.json
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\screenSound.runtimeconfig.json
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\screenSound.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\screenSound.pdb
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Extensions.Http.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\bin\Debug\net8.0\OpenAI_API.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.csproj.AssemblyReference.cache
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.AssemblyInfoInputs.cache
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.AssemblyInfo.cs
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.csproj.CoreCompileInputs.cache
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.sourcelink.json
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.csproj.CopyComplete
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\refint\screenSound.dll
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.pdb
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\screenSound.genruntimeconfig.cache
+C:\Users\marqu\OneDrive\Documentos\Programacao\ferramentas\csharp\projetos\screen-sound-main\obj\Debug\net8.0\ref\screenSound.dll

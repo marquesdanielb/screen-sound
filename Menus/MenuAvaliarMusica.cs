@@ -8,23 +8,30 @@ internal class MenuAvaliarMusica : Menu
     {
         base.Executar(bandasRegistradas);
         ExibirTituloDaOpcao("Avaliar música");
+        
         Console.Write("Digite o nome da banda: ");
         string nomeDaBanda = Console.ReadLine()!;
+        
         if (bandasRegistradas.ContainsKey(nomeDaBanda))
         {
             Banda banda = bandasRegistradas[nomeDaBanda];
+            
             Console.Write("Agora digite o título do álbum: ");
             string tituloAlbum = Console.ReadLine()!;
+            
             if (banda.Albuns.Any(a => a.Nome.Equals(tituloAlbum)))
             {
                 Album album = banda.Albuns.First(a => a.Nome.Equals(tituloAlbum));
+                
                 Console.WriteLine("Músicas:");
+                
                 foreach (Musica musica in album.Musicas)
                 {
                     Console.WriteLine($"{musica.Nome}");
                 }
+                
                 Console.Write($"Qual a música que o album {tituloAlbum} merece: ");
-                Avaliacao nota = Avaliacao.Parse(Console.ReadLine()!);
+                Avaliacao nota = Avaliacao.Parse(Console.ReadLine()!)
                 album.AdicionarNota(nota);
                 Console.WriteLine($"\nA nota {nota.Nota} foi registrada com sucesso para o album {tituloAlbum}");
                 Thread.Sleep(2000);
